@@ -1,0 +1,5 @@
+%% Kinemreduced contains the Forward and inverse Kinematics and Jacobian 
+
+%% Testingdynamics contains the dynamics
+
+%% rest are functions produced to make the code more readable and compact
